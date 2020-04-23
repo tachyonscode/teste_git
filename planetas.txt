@@ -1,3 +1,5 @@
 Mercurio
-Venus
 Terra
+Marte
+Plutao
+Saturno
